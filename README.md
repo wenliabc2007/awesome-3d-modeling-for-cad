@@ -589,6 +589,7 @@ FreeCAD                          Blender
 |---|---|---|---|
 | Import CAD Addon Tutorial | Video | [YouTube](https://www.youtube.com/watch?v=NOLGch4agzE) | STEP/IGES import workflow |
 | Import CAD Model Discussion | Forum | [Blender Artists](https://blenderartists.org/t/free-addon-import-cad-model-quickly-import-stp-iges-to-blender/1582013) | Setup and usage guide |
+| STL vs STEP vs 3MF export test | Article | [PrintWhat](https://printwhat.app/guides/stl-vs-step-vs-3mf#export-test) | One part exported to STEP, STL and 3MF; shows hole faceting and that a mesh converted to STEP has no true cylinders |
 
 ---
 
